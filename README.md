@@ -3,10 +3,6 @@
 <h3 align="center">Estudiante de Ingeniería Informática</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=C+%7C+Python+%7C+Java+%7C+R;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="mailto:icalvobenito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
